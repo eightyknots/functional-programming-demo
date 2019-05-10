@@ -1,7 +1,7 @@
 // Q4: Has every Avengers movie grossed more than the last? (Note: Please return a boolean)
 const sortBy = require('./question2').sortBy;
 
-exports.solution = function(filmData) {
+exports.solution = function (filmData) {
   const avengersFilms = sortBy(
     filmData.filter((film) => (film.name.match(/avengers/i))),
     'releaseDate'
@@ -13,3 +13,5 @@ exports.solution = function(filmData) {
 
   return (maxGrossingAvengers === avengersFilms[avengersFilms.length - 1]);
 };
+
+exports.answer = false;

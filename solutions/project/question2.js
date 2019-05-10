@@ -1,6 +1,6 @@
 // Q2: What is the average gross per film for each studio? Sort your answer in descending order of US grosses.
 
-exports.solution = function(filmData) {
+exports.solution = function (filmData) {
   const groupedByStudio = groupBy(filmData, 'studio');
   return sortBy(Object.keys(groupedByStudio).map((studio) => {
     const studioFilms = groupedByStudio[studio];
@@ -41,3 +41,8 @@ const groupBy = (array, property) => {
 
 exports.sortBy = sortBy;
 exports.groupBy = groupBy;
+
+exports.answer = [{studio: 'Buena Vista', averageGross: 404065739.4375},
+  {studio: 'Sony', averageGross: 334201140},
+  {studio: 'Paramount', averageGross: 247132640.25},
+  {studio: 'Universal', averageGross: 134806913}];
