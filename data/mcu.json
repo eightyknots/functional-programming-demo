@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Avengers: Endgame",
+    "usGross": 631987456,
+    "releaseDate": "2019-04-26",
+    "studio": "Buena Vista",
+    "actors": [
+      "Robert Downey, Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Karen Gillan",
+      "Paul Rudd",
+      "Josh Brolin",
+      "Brie Larson"
+    ]
+  },
+  {
+    "name": "Captain Marvel",
+    "usGross": 421057681,
+    "releaseDate": "2019-03-08",
+    "studio": "Buena Vista",
+    "actors": [
+      "Brie Larson",
+      "Samuel L. Jackson",
+      "Ben Mendelsohn",
+      "Djimon Hounsou",
+      "Lee Pace",
+      "Mckenna Grace",
+      "Clark Gregg",
+      "Jude Law",
+      "Annette Bening"
+    ]
+  },
+  {
+    "name": "Ant-Man And The Wasp",
+    "usGross": 216648740,
+    "releaseDate": "2018-07-06",
+    "studio": "Buena Vista",
+    "actors": [
+      "Paul Rudd",
+      "Evangeline Lilly",
+      "Michael Pena",
+      "Walton Goggins",
+      "Bobby Cannavale",
+      "Judy Greer",
+      "T.I.",
+      "Michelle Pfeiffer",
+      "Laurence Fishburne",
+      "Michael Douglas"
+    ]
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "usGross": 678815482,
+    "releaseDate": "2018-04-27",
+    "studio": "Buena Vista",
+    "actors": [
+      "Winston Duke",
+      "Robert Downey, Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Anthony Mackie",
+      "Elizabeth Olsen",
+      "Paul Bettany",
+      "Benedict Cumberbatch",
+      "Tom Holland",
+      "Chadwick Boseman",
+      "Josh Brolin"
+    ]
+  },
+  {
+    "name": "Black Panther",
+    "usGross": 700059566,
+    "releaseDate": "2018-02-16",
+    "studio": "Buena Vista",
+    "actors": [
+      "Winston Duke",
+      "Chadwick Boseman",
+      "Lupita Nyong'o",
+      "Michael B. Jordan",
+      "Angela Bassett",
+      "Martin Freeman",
+      "Forest Whitaker",
+      "Andy Serkis",
+      "Sterling K. Brown",
+      "Letitia Wright"
+    ]
+  },
+  {
+    "name": "Thor: Ragnarok",
+    "usGross": 315058289,
+    "releaseDate": "2017-11-03",
+    "studio": "Buena Vista",
+    "actors": [
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Cate Blanchett",
+      "Jeff Goldblum",
+      "Tessa Thompson",
+      "Karl Urban",
+      "Anthony Hopkins",
+      "Tom Hiddleston",
+      "Idris Elba",
+      "Benedict Cumberbatch"
+    ]
+  },
+  {
+    "name": "Spider-Man: Homecoming",
+    "usGross": 334201140,
+    "releaseDate": "2017-07-07",
+    "studio": "Sony",
+    "actors": [
+      "Tom Holland",
+      "Marisa Tomei",
+      "Robert Downey, Jr.",
+      "Tony Revolori",
+      "Donald Glover",
+      "Michael Keaton",
+      "Zendaya",
+      "Jon Favreau"
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "usGross": 389813101,
+    "releaseDate": "2017-05-05",
+    "studio": "Buena Vista",
+    "actors": [
+      "Michael Rooker",
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Karen Gillan",
+      "Elizabeth Debicki",
+      "Kurt Russell",
+      "Sylvester Stallone"
+    ]
+  },
+  {
+    "name": "Doctor Strange",
+    "usGross": 232641920,
+    "releaseDate": "2016-11-04",
+    "studio": "Buena Vista",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Tilda Swinton",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Michael Stuhlbarg",
+      "Mads Mikkelsen"
+    ]
+  },
+  {
+    "name": "Captain America: Civil War",
+    "usGross": 408084349,
+    "releaseDate": "2016-05-16",
+    "studio": "Buena Vista",
+    "actors": [
+      "Chris Evans",
+      "Robert Downey, Jr.",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Paul Bettany",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Elizabeth Olsen",
+      "Paul Rudd",
+      "Chadwick Boseman"
+    ]
+  },
+  {
+    "name": "Ant-Man",
+    "usGross": 180202163,
+    "releaseDate": "2015-07-17",
+    "studio": "Buena Vista",
+    "actors": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll",
+      "John Slattery",
+      "Bobby Cannavale",
+      "Michael Pena",
+      "T.I."
+    ]
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "usGross": 459005868,
+    "releaseDate": "2015-05-01",
+    "studio": "Buena Vista",
+    "actors": [
+      "Robert Downey, Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Aaron Johnson",
+      "Elizabeth Olsen",
+      "Paul Bettany"
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "usGross": 333176600,
+    "releaseDate": "2014-08-01",
+    "studio": "Buena Vista",
+    "actors": [
+      "Michael Rooker",
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Lee Pace",
+      "Karen Gillan",
+      "Djimon Hounsou",
+      "John C. Reilly"
+    ]
+  },
+  {
+    "name": "Captain America: The Winter Soldier",
+    "usGross": 259766572,
+    "releaseDate": "2014-04-04",
+    "studio": "Buena Vista",
+    "actors": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Samuel L. Jackson",
+      "Robert Redford",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Cobie Smulders",
+      "Frank Grillo",
+      "Hayley Atwell"
+    ]
+  },
+  {
+    "name": "Thor: The Dark World",
+    "usGross": 206362140,
+    "releaseDate": "2013-11-08",
+    "studio": "Buena Vista",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Anthony Hopkins",
+      "Idris Elba",
+      "Stellan Skarsgard",
+      "Christopher Eccleston",
+      "Kat Dennings",
+      "Ray Stevenson",
+      "Zachary Levi"
+    ]
+  },
+  {
+    "name": "Iron Man 3",
+    "usGross": 409013994,
+    "releaseDate": "2013-05-03",
+    "studio": "Buena Vista",
+    "actors": [
+      "Fan Bingbing",
+      "Robert Downey, Jr.",
+      "Gwyneth Paltrow",
+      "Don Cheadle",
+      "Guy Pearce",
+      "Rebecca Hall",
+      "James Badge Dale",
+      "Jon Favreau",
+      "Ben Kingsley"
+    ]
+  },
+  {
+    "name": "Marvel's The Avengers",
+    "usGross": 623357910,
+    "releaseDate": "2012-05-04",
+    "studio": "Buena Vista",
+    "actors": [
+      "Robert Downey, Jr.",
+      "Chris Hemsworth",
+      "Chris Evans",
+      "Jeremy Renner",
+      "Mark Ruffalo",
+      "Scarlett Johansson",
+      "Clark Gregg",
+      "Samuel L. Jackson",
+      "Cobie Smulders",
+      "Tom Hiddleston"
+    ]
+  },
+  {
+    "name": "Captain America: The First Avenger",
+    "usGross": 176654505,
+    "releaseDate": "2011-07-22",
+    "studio": "Paramount",
+    "actors": [
+      "Chris Evans",
+      "Hugo Weaving",
+      "Stanley Tucci",
+      "Tommy Lee Jones",
+      "Dominic Cooper",
+      "Neal McDonough",
+      "Hayley Atwell",
+      "Sebastian Stan",
+      "Toby Jones",
+      "Derek Luke"
+    ]
+  },
+  {
+    "name": "Thor",
+    "usGross": 181030624,
+    "releaseDate": "2011-05-06",
+    "studio": "Paramount",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Kat Dennings",
+      "Anthony Hopkins",
+      "Ray Stevenson",
+      "Idris Elba",
+      "Stellan Skarsgard",
+      "Rene Russo",
+      "Colm Feore",
+      "Clark Gregg",
+      "Tom Hiddleston"
+    ]
+  },
+  {
+    "name": "Iron Man 2",
+    "usGross": 312433331,
+    "releaseDate": "2010-05-07",
+    "studio": "Paramount",
+    "actors": [
+      "Robert Downey, Jr.",
+      "Don Cheadle",
+      "Scarlett Johansson",
+      "Gwyneth Paltrow",
+      "Sam Rockwell",
+      "Mickey Rourke",
+      "Samuel L. Jackson",
+      "Clark Gregg",
+      "John Slattery",
+      "Garry Shandling"
+    ]
+  },
+  {
+    "name": "The Incredible Hulk",
+    "usGross": 134806913,
+    "releaseDate": "2008-06-13",
+    "studio": "Universal",
+    "actors": [
+      "Edward Norton",
+      "Liv Tyler",
+      "Tim Roth",
+      "William Hurt",
+      "Tim Blake Nelson",
+      "Ty Burrell"
+    ]
+  },
+  {
+    "name": "Iron Man",
+    "usGross": 318412101,
+    "releaseDate": "2008-05-02",
+    "studio": "Paramount",
+    "actors": [
+      "Robert Downey, Jr.",
+      "Terrence Howard",
+      "Gwyneth Paltrow",
+      "Jeff Bridges",
+      "Clark Gregg"
+    ]
+  }
+]
